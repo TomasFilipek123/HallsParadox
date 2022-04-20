@@ -1,7 +1,0 @@
-# HallsParadox
-
-someDescription?
-
-##subheader
-
-Editing
